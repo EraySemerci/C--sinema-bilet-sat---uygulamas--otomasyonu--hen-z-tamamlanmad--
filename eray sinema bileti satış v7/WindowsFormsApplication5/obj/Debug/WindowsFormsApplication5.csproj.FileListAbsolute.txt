@@ -1,0 +1,214 @@
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form2.resources
+G:\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+G:\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+G:\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\bjk-s\OneDrive\Belgeler\Visual Studio 2013\Projects\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\a\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\a\Desktop\eray sinema bileti satış\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\a\Desktop\eray sinema bileti satış V2\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\win7\Desktop\eray sinema bileti satış\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satışv3\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\win7\Desktop\eray sinema bileti satışv3\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v4\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Fiyatlar.resources
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\a\Desktop\eray sinema bileti satış v5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\bjk-s\OneDrive\Masaüstü\ödv\eray sinema bileti satış v6\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\jxanw\Desktop\v7\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\jxanw\Desktop\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\bin\Debug\Microsoft.PointOfService.xml
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.AssemblyReference.cache
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+C:\Users\jxanw\OneDrive\Masaüstü\v7.5\eray sinema bileti satış v7\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CopyComplete
